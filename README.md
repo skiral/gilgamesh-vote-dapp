@@ -14,7 +14,8 @@ Smart contract address [0xf74A2C3C82653F20088B218cBe3101a7Afd21a53](https://rops
 
 
 * Voting dApp currently working on ROPSTEN test network.
-* Fund your MetaMask with Gilgamesh Platform Network Tokens (GIL Tokens). if you need GIL tokens fill the following [form](https://goo.gl/A7GsQC) and we will send you some.
+* Fund your MetaMask with Gilgamesh Platform Network Tokens (GIL Tokens).
+* **if you need GIL tokens fill the following [form](https://goo.gl/A7GsQC) and we will send you some.**
 
 **Note**
 * You can only vote to one proposal per ETH address at a time.
