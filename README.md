@@ -6,12 +6,14 @@ Gilgamesh Platform allows GIL token holders to propose and suggest new features 
 
 Gilgamesh uses a [Gilgamesh Voting Process](https://github.com/skiral/gilgamesh-proposals) to enable GIL token holders and the Gilgamesh community decide what features needs to be developed by the Gilgamesh team.
 
-[Vote Smart Contract](https://github.com/skiral/gilgamesh-vote-dapp/blob/master/contracts/GilgameshVotingAbi.json)
-[ABI / Interface JSON](https://github.com/skiral/gilgamesh-vote-dapp/blob/master/contracts/GilgameshVotingAbi.json)
+Read the [Vote Smart Contract](https://github.com/skiral/gilgamesh-vote-dapp/blob/master/contracts/GilgameshVotingAbi.json)
+
+Contract [ABI / Interface JSON](https://github.com/skiral/gilgamesh-vote-dapp/blob/master/contracts/GilgameshVotingAbi.json)
+
+Smart contract address [0xf74A2C3C82653F20088B218cBe3101a7Afd21a53](https://ropsten.etherscan.io/address/0xf74A2C3C82653F20088B218cBe3101a7Afd21a53) deployed to ROPSTEN test network.
 
 
 * Voting dApp currently working on ROPSTEN test network.
-
 * Fund your MetaMask with Gilgamesh Platform Network Tokens (GIL Tokens). if you need GIL tokens fill the following [form](https://goo.gl/A7GsQC) and we will send you some.
 
 **Note**
